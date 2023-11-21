@@ -1,7 +1,8 @@
 <div align="center">
   <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="600" height="300"/>
-</div>  
-:woman_technologist: About Me :  
+</div>
+
+### :woman_technologist: About Me :  
 
 I am a Python Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - :telescope:  I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
@@ -34,8 +35,8 @@ I am a Python Backend Developer <img src="https://media.giphy.com/media/WUlplcMp
 ---  
 
 ### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Faithdev21&theme=dark)](https://git.io/streak-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faithdev21&layout=compact&theme=vision-friendly-dark)](https://github.com/faithdev21/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Faithdev21&theme=default)](https://git.io/streak-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faithdev21&layout=compact&theme=default)](https://github.com/faithdev21/github-readme-stats)
 <!--
 **Faithdev21/Faithdev21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

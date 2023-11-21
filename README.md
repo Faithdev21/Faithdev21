@@ -5,13 +5,8 @@
 ### :woman_technologist: About Me :  
 
 I am a Python Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- :telescope:  I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-
-- :seedling: Exploring Technical Content Writing.
-
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-
-- :mailbox:  How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-FaithDev21-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/egor-loskutov-432322258/)
+- :globe_with_meridians: Saint-Petersburg
+- :mailbox:  How to reach me: [![Telegram Badge](https://img.shields.io/badge/-FaithDev21-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/faithdev) [![Linkedin Badge](https://img.shields.io/badge/-FaithDev21-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/egor-loskutov-432322258/)
 ---
 
 ### :hammer_and_wrench: Languages and Tools :

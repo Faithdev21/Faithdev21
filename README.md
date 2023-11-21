@@ -29,7 +29,13 @@ I am a Python Backend Developer <img src="https://media.giphy.com/media/WUlplcMp
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" title="Postman" alt="Postman" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg" title="PyCharm" alt="PyCharm" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="50" height="50"/>&nbsp;
-</div>
+</div>  
+
+---  
+
+### :fire: My Stats :
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Faithdev21&theme=dark)](https://git.io/streak-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faithdev21&layout=compact&theme=vision-friendly-dark)](https://github.com/faithdev21/github-readme-stats)
 <!--
 **Faithdev21/Faithdev21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
